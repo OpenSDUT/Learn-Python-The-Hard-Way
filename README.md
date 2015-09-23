@@ -4,7 +4,7 @@
 
 - [《Learn-Python-The-Hard-Way》官网](http://learnpythonthehardway.org/book/)
 - [豆瓣 -《“笨办法”学Python（第3版）》](http://book.douban.com/subject/26264642/)
-- [html中文第二版](htmlhttp://www.2cto.com/shouce/Pythonbbf/index.html)
+- [html中文第二版](http://www.2cto.com/shouce/Pythonbbf/index.html)
 - [html中文第三版](http://www.jb51.net/shouce/Pythonbbf/latest/index.html)
 
 #### Schedule
