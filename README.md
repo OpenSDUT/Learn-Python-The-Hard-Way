@@ -20,4 +20,5 @@ fourth week   | 10.19-10.25
 
 - fork this repo
 - create a folder named with your name
-- add your solution in your folder, for example ex1.py
+- add your solution in your folder, for example ex1.py or ex1_study_drills.py
+
