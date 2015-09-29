@@ -18,5 +18,5 @@ for i in range(6):
     elements.append(i)
 for i in elements:
     print("element was:%d" % i)
-print(filter(lambda x:x%2==0, elements))
+print(list(filter(lambda x:x, elements)))
 print([x for x in elements])
