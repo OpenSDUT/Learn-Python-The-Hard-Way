@@ -1,0 +1,24 @@
+x = "There are %d types of people." %10
+binary = "binary"
+do_not = "don't"
+y = "Those who know %s and those who %s." % (binary,do_not)
+
+print x
+print y 
+
+print "I said: %s." % x
+print "I also said: '%r'." %y 
+
+hilarious = False
+joke_evaluation = "Isn't that joke so funny?! %r"
+
+print joke_evaluation % hilarious  # 输出第一个字符串的时候，包含"%r",致使输出False
+
+w = "This is the left side of..."
+e = "a string with a right side."
+r = w
+
+print w + e 
+print r
+
+
