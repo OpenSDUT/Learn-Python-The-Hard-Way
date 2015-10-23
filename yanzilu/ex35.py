@@ -2,12 +2,14 @@
 # Branches and Functions
 
 from sys import exit
+import types
 
 def gold_room():
 	print "This room is full of gold.How much do you take?"
 	
 	next = raw_input(">")
-	if "0" in next or "1" in next:
+	#判断输入的是不是整数类型
+	if(type(next) is types.IntType):
 		how_much = int(next)
 	else:
 		dead("Man,learn to type a number.")
